@@ -24,6 +24,12 @@ ul {
     padding: 0;
 }
 
+.container {
+    max-width: 1158px;
+    margin: auto;
+    padding: 0px 15px;
+}
+
 body {
     background-color: --main-background;
     font-family: "Roboto", sans-serif;
